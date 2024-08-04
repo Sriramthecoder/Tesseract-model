@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tesseract-model/static/css/main.e6c13ad2.css",
+    "main.js": "/Tesseract-model/static/js/main.77c510ff.js",
+    "static/js/453.731d616d.chunk.js": "/Tesseract-model/static/js/453.731d616d.chunk.js",
+    "index.html": "/Tesseract-model/index.html",
+    "main.e6c13ad2.css.map": "/Tesseract-model/static/css/main.e6c13ad2.css.map",
+    "main.77c510ff.js.map": "/Tesseract-model/static/js/main.77c510ff.js.map",
+    "453.731d616d.chunk.js.map": "/Tesseract-model/static/js/453.731d616d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.77c510ff.js"
+  ]
+}
